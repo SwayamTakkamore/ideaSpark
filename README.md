@@ -1,4 +1,4 @@
-# IdeaSpark 💡
+# IdeaSpark
 
 **IdeaSpark** is a full-stack innovation platform that empowers students to submit and showcase their ideas, connect with mentors for guidance, and collaborate on projects. The platform features an AI-powered chatbot, idea verification system, leaderboard with XP tracking, and multi-platform support (Web & Android).
 
